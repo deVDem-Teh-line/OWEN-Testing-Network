@@ -1,0 +1,9 @@
+*.SDB
+*.SYM
+*.ci
+*.ri
+Backup*
+*.bk*
+*.DFR
+*.ASD
+~$*
